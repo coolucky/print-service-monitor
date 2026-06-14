@@ -1,0 +1,57 @@
+[
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "ntid": "ADMIN",
+    "email": "admin@example.com",
+    "passwordHash": "$2b$10$KgeHxVOxXwAyuvCyhsOtZ.ps3QAwaE39q8nbl8.UJyH1EwKHE4uUm",
+    "role": "Administrator",
+    "createdAt": "2026-05-07T10:09:48.024Z",
+    "lastLogin": "2026-06-14T03:22:04.989Z",
+    "active": true
+  },
+  {
+    "id": "5d5cb2f2-14ed-4500-b8a6-2ee2a6fc2cc8",
+    "username": "testuser",
+    "ntid": "TEST001",
+    "email": "test@example.com",
+    "passwordHash": "$2b$10$KcH4cKObR49NRowkRdLzfu1ZNiSE2Ch3El2ZrPYJD9mg52QdBmY/m",
+    "role": "Editor",
+    "createdAt": "2026-05-18T06:30:58.003Z",
+    "lastLogin": "2026-05-18T06:31:18.967Z",
+    "active": false
+  },
+  {
+    "id": "adc6e8c0-e52e-4cb1-bf9b-a5b69cf4f91e",
+    "username": "user1",
+    "ntid": "user1",
+    "email": "user1@example.com",
+    "passwordHash": "$2b$10$.7882TiN23scAF2t.Qj8N./3R9c8RpWeK9eJ0UVrzFuzlwNaZIKLC",
+    "role": "Editor",
+    "createdAt": "2026-05-18T07:41:11.138Z",
+    "lastLogin": null,
+    "active": true
+  },
+  {
+    "id": "d5d1cd1e-cae2-48bf-aef0-a27f3007aae7",
+    "username": "user2",
+    "ntid": "user2",
+    "email": "user2@example.com",
+    "passwordHash": "$2b$10$Vlxx/qpXK7trOu2EKMuU3uM18n9TsHdxC2IOeCHnVufSEHg7fgKeS",
+    "role": "Administrator",
+    "createdAt": "2026-05-19T07:16:16.965Z",
+    "lastLogin": "2026-05-21T07:12:14.865Z",
+    "active": true
+  },
+  {
+    "id": "c4a3145b-85ad-457c-ac2f-1c85ab2f2c12",
+    "username": "user3",
+    "ntid": "user3",
+    "email": "user3@example.com",
+    "passwordHash": "$2b$10$.QI1uLnBrzeaqAKgda3bb.5iyBwYhEpuggnPuu3E0j1jGEhwh0KF6",
+    "role": "Editor",
+    "createdAt": "2026-05-19T07:16:46.693Z",
+    "lastLogin": null,
+    "active": true
+  }
+]

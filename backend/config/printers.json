@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Printer_A",
+    "ip": "192.168.1.10",
+    "serialNumber": "SN-001",
+    "port": 168,
+    "macAddress": "00:11:22:33:44:AA",
+    "location": "Floor12",
+    "assetTag": "AST-001",
+    "model": "Fujifilm Apeos C5570",
+    "status": "online",
+    "isTest": false,
+    "manualTonerLevels": {
+      "black": 97,
+      "cyan": 83,
+      "magenta": 58,
+      "yellow": 58
+    },
+    "lastUpdated": "2026-05-21T07:52:01.302Z"
+  },
+  {
+    "id": "2",
+    "name": "Printer_B",
+    "ip": "192.168.1.11",
+    "serialNumber": "SN-002",
+    "port": 490,
+    "macAddress": "00:11:22:33:44:BB",
+    "location": "Floor12B",
+    "assetTag": "AST-002",
+    "model": "Fujifilm Apeos C5570",
+    "status": "online",
+    "isTest": false,
+    "manualTonerLevels": {
+      "black": 40,
+      "cyan": 77,
+      "magenta": 79,
+      "yellow": 82
+    },
+    "lastUpdated": "2026-05-21T07:52:01.302Z"
+  },
+  {
+    "id": "3",
+    "name": "Printer_C",
+    "ip": "192.168.1.12",
+    "serialNumber": "SN-003",
+    "port": 24,
+    "macAddress": "00:11:22:33:44:CC",
+    "location": "Floor18",
+    "assetTag": "AST-003",
+    "model": "Fujifilm Apeos C5570",
+    "status": "online",
+    "isTest": false,
+    "manualTonerLevels": {
+      "black": 99,
+      "cyan": 98,
+      "magenta": 98,
+      "yellow": 99
+    },
+    "lastUpdated": "2026-05-21T07:52:01.302Z"
+  },
+  {
+    "id": "4",
+    "name": "Printer_D",
+    "ip": "192.168.1.13",
+    "serialNumber": "SN-004",
+    "port": 88,
+    "macAddress": "00:11:22:33:44:DD",
+    "location": "Floor26",
+    "assetTag": "AST-004",
+    "model": "Fujifilm Apeos C5570",
+    "status": "online",
+    "isTest": false,
+    "manualTonerLevels": {
+      "black": 39,
+      "cyan": 47,
+      "magenta": 79,
+      "yellow": 99
+    },
+    "lastUpdated": "2026-05-21T07:52:01.302Z"
+  },
+  {
+    "id": "5",
+    "name": "Printer_E",
+    "ip": "192.168.1.14",
+    "serialNumber": "SN-005",
+    "port": 1,
+    "macAddress": "00:11:22:33:44:EE",
+    "location": "Lab",
+    "assetTag": "AST-005",
+    "model": "Fujifilm Apeos C5570",
+    "status": "offline",
+    "isTest": true,
+    "manualTonerLevels": {
+      "black": 100,
+      "cyan": 100,
+      "magenta": 98,
+      "yellow": 100
+    },
+    "lastUpdated": "2026-05-21T07:52:01.302Z"
+  }
+]

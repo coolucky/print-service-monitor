@@ -1,0 +1,60 @@
+{
+  "email": {
+    "smtpServer": "smtp.example.com",
+    "smtpPort": "25",
+    "smtpUser": "",
+    "smtpPass": "",
+    "useTls": false,
+    "defaultFrom": "admin@example.com",
+    "defaultTo": "admin@example.com"
+  },
+  "papercut": {
+    "enabled": false,
+    "serverUrl": "",
+    "apiKey": "",
+    "host": "127.0.0.1",
+    "port": "9191",
+    "username": "admin",
+    "password": "password123"
+  },
+  "license": {
+    "expirationDate": "2028-09-30"
+  },
+  "emailContacts": {
+    "senders": [
+      "admin@example.com",
+      "noreply@example.com",
+      "monitor@example.com"
+    ],
+    "recipients": [
+      "admin@example.com",
+      "team@example.com",
+      "user1@example.com",
+      "user2@example.com",
+      "user3@example.com"
+    ],
+    "ccRecipients": [
+      "cc@example.com"
+    ]
+  },
+  "forgotPasswordEmail": "noreply@example.com",
+  "reportSettings": {
+    "emails": {
+      "fromEmail": "admin@example.com",
+      "toEmail": "team@example.com",
+      "ccEmail": "cc@example.com"
+    },
+    "weeklySchedule": {
+      "enabled": true,
+      "dayOfWeek": 5,
+      "selectedStyle": 1,
+      "hour": 17,
+      "minute": 30,
+      "fromEmail": "admin@example.com",
+      "toEmail": "team@example.com",
+      "ccEmail": "cc@example.com",
+      "savedAt": "2026-05-21T08:58:49.458Z"
+    },
+    "lastSentWeek": ""
+  }
+}

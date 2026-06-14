@@ -1,0 +1,25 @@
+{
+  "email": {
+    "smtpHost": "smtp.example.com",
+    "smtpPort": "25",
+    "smtpUser": "",
+    "smtpPass": "",
+    "useTls": false
+  },
+  "papercut": {
+    "enabled": false,
+    "host": "127.0.0.1",
+    "port": "9191",
+    "username": "admin",
+    "password": "password123",
+    "apiToken": "http://127.0.0.1:9191/api/health/application-server/status?disk-threshold-mb=1&Authorization=test-token-placeholder"
+  },
+  "application": {
+    "reportFrequency": "weekly",
+    "sendReminders": true,
+    "reminderDays": 3
+  },
+  "license": {
+    "expirationDate": "2025-09-30"
+  }
+}

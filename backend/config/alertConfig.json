@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "fromEmail": "admin@example.com",
+  "toEmails": "admin@example.com",
+  "tonerThreshold": 5,
+  "serverAlertEnabled": true
+}
